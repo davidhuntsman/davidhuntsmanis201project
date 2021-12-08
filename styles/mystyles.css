@@ -1,0 +1,147 @@
+.whitepattern{
+    background-image: url(../images/pattern.png);
+    background-position: top;
+    background-repeat: repeat;
+}
+    
+.header4{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pictures{
+    text-align: center;
+    padding-left: 600px;
+}
+
+.text{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.pagelinks{
+    font-size: 20px;
+    font: bold;
+}
+
+
+.tableaubg{
+    background-color: beige;
+}
+
+.video{
+    padding-left: 500px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+
+#header{
+    border: solid white 4px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 40px;
+}
+
+
+#content{
+    border: solid white 4px;
+    position: absolute;
+    top: 45px;
+    left: 15px;
+    right: 5px;
+}
+
+
+#footer{
+    background-color: skyblue;
+    color: white;
+    position: fixed;
+    border: solid black 2px;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    height: 35px;
+    text-align: center;
+}
+
+
+#footer1{
+    background-color: black;
+    color: white;
+    position: fixed;
+    border: solid black 2px;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+.resume{
+    background-image: url(../images/Mountains.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
